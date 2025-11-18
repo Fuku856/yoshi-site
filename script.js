@@ -1,5 +1,5 @@
 // マトリックス風文字セット（半角カタカナ、英語、数字）
-const matrixChars = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz譁�ｭ怜喧縺繝昴繝繝遺促隕也阜縺ｮ蜈諤匁悶縺弱蜉ｩ縺代※縺上蜷梧悄逕溘0123456789';
+const matrixChars = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz譁ｭ怜遺促隕也阜縺ｮ蜈諤匁縺弱蜉ｩ縺代※縺上蜷梧悄逕0123456789';
 
 let video = null;
 let canvas = null;
